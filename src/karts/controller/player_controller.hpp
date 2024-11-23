@@ -22,6 +22,8 @@
 #include "karts/controller/controller.hpp"
 #include "utils/cpp2011.hpp"
 
+#include <cstdint>
+
 class AbstractKart;
 class Player;
 

@@ -22,6 +22,7 @@
 #include "karts/abstract_characteristic.hpp"
 
 #include <string>
+#include <cstdint>
 
 class XMLNode;
 
