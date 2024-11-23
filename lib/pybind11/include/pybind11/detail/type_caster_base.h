@@ -9,6 +9,7 @@
 
 #pragma once
 
+#include <frameobject.h>
 #include "../pytypes.h"
 #include "common.h"
 #include "descr.h"
