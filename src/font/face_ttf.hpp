@@ -26,6 +26,7 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include <cstdint>
 
 #ifndef SERVER_ONLY
 #include <ft2build.h>

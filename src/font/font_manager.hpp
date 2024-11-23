@@ -32,6 +32,7 @@
 #include <typeindex>
 #include <unordered_map>
 #include <vector>
+#include <cstdint>
 
 #ifndef SERVER_ONLY
 #include <ft2build.h>
